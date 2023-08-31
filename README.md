@@ -1,5 +1,7 @@
 # CognitiveBehavioralTherapyGPTMemorySystem
-GPT VectorDB app using meta inference and CBT to compute alternate futures in thought, emotion, and behavior while eliminating cognitive distortion
+GPT VectorDB app using meta inference and CBT to compute alternate futures in thought, emotion, and behavior while eliminating cognitive distortion.
+
+**App URL:** https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
 
 *Storing an evaluated prompt-answer-review three part file system that gathers and constructs knowledge as a three part file set can greatly enhance the effectiveness of Cognitive Behavioral Therapy (CBT) interventions. By organizing information into .TXT, .MD, and .PY files, it allows for easy access and retrieval of relevant content. This system aligns with the three sets of rules in CBT, providing a structured approach to recognizing and challenging cognitive distortions, promoting positive self-talk, and developing problem-solving skills.
 
